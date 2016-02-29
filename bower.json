@@ -2,9 +2,7 @@
   "name": "wayfinding",
   "version": "0.1.5",
   "description": "jQuery wayfinding plugin",
-  "main": {
-    "src/jquery.wayfinding.js"
-  },
+  "main": "src/jquery.wayfinding.js",
   "dependencies": {
     "jquery": "latest"
   },
